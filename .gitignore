@@ -1,3 +1,4 @@
 src/.vs/
-src/articles/obj/
-src/articles/bin/
+src/*/obj/
+src/*/bin/
+
